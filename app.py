@@ -11,7 +11,9 @@ st.title("CT-indicatievoorspeller op basis van klinische kernwoorden")
 st.markdown("""
 Typ de klinische kernwoorden uit het verwijzingsveld, bijvoorbeeld:
 
-`dyspneu`, `koorts`, `covid`, `verdenking longembolie`, `pijn`
+    'copd', 'covid', 'dyspneu','desaturaties', 'diabeet', 'hemoptoe', 'infectie', 'koorts', 'longembolie', 'longpunctie',
+    'overvulling', 'pathologie', 'pijn', 'pleuravocht', 'pneumonie', 'pijnlijke', 'Sepsis', 'thoracale',
+    'pulmonale', 'uitsluiten', 'verdenking'
 
 De tool voorspelt de kans dat een **CT Angio Thorax** geïndiceerd is.
 """)
