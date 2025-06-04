@@ -12,8 +12,8 @@ st.markdown("""
 Typ de klinische kernwoorden uit het verwijzingsveld, bijvoorbeeld:
 
     'copd', 'covid', 'dyspneu','desaturaties', 'diabeet', 'hemoptoe', 'infectie', 'koorts', 'longembolie', 'longpunctie',
-    'overvulling', 'pathologie', 'pijn', 'pleuravocht', 'pneumonie', 'pijnlijke', 'Sepsis', 'thoracale',
-    'pulmonale', 'uitsluiten', 'verdenking'
+    'overvulling', 'pathologie', 'pleuravocht', 'pneumonie', 'Sepsis', 'thoracale',
+    'pulmonale', 
 
 De tool voorspelt de kans dat een **CT Angio Thorax** geïndiceerd is.
 """)
